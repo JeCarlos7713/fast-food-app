@@ -1,0 +1,10 @@
+{
+    "products" : [
+        {
+            "title"     : "X-Burguer",
+            "price"     : 50.00,
+            "calories"  : 70,
+            "img"       : "https://static.vecteezy.com/system/resources/previews/022/598/800/non_2x/tasty-beef-burger-png.png"
+        }
+    ]
+}
